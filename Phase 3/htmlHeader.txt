@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.row {
+    display: flex;
+	border: 1px solid #FF8C00;
+}
+
+.thumbnail img {
+    height:300px;
+    width:295px;
+	border: 2px solid #FFD700;
+
+}
+
+body {
+    color: maroon;
+}
+
+h1 {
+    color: #CD5C5C;
+}
+
+</style>
+</head>
+<body>
